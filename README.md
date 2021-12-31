@@ -1,4 +1,4 @@
 # Currency-Convertor-ChatBot
-Currency Convertor ChatBot USing Dialogflow
+Currency Convertor ChatBot Using Dialogflow
 
-## App Link : https://currency-converter-chatbot.herokuapp.com/
+## App Link : https://t.me/currencyconverterdemo_bot
